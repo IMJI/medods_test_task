@@ -51,7 +51,7 @@ https://localhost:3333/auth?guid=13357205-5b97-4794-ba66-1bb603c4df61
 ##### Запрос
 
 ```
-https://localhost:3333/auth?guid=13357205-5b97-4794-ba66-1bb603c4df61
+https://localhost:3333/refresh
 ```
 
 ##### Тело запроса
